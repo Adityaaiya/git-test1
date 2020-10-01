@@ -14,6 +14,7 @@ function solverect(l,b)
             console.log(" the area of rectangle of dimension l = " + l + " and b + " + b + " is " + rectangle.area() );
             console.log(" the perimeter of rectangle of dimension l = " + l + " and b + " + b + " is " + rectangle.perimeter() );
     }
+    
 
     });
     console.log(" this statement after the call to rect()");
