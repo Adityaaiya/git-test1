@@ -1,0 +1,20 @@
+{
+  "name": "node-http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "aditya",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adityaaiya/git-test1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Adityaaiya/git-test1/issues"
+  },
+  "homepage": "https://github.com/Adityaaiya/git-test1#readme"
+}
